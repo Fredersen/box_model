@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+}
+
+nav {
+    background-color: rgb(70, 69, 69);
+}
+
+ul {
+    margin: 0;
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+.carousel {
+    background-color: rgb(219, 216, 216);
+    padding-top: 15rem;
+}
+
+#article {
+    padding-bottom: 5rem;
+
+}
+
+article {
+    display: inline-block;
+    padding-bottom: 30rem;
+    width: 33%;
+    background-color: rgb(148, 130, 130);
+}
+
+.formulaire {
+    width: 100%;
+}
+
+input {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 1rem;
+}
+
+textarea {
+    width: 80%;
+    margin-left: 10%;
+    height: 10rem;
+}
+
+.form {
+}
+
+.contact {
+    border-top: 1px solid black;
+}
+
+.fellows {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
